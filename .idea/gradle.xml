@@ -12,16 +12,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
             <option value="$PROJECT_DIR$/Problems/Bus tour" />
             <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Division" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Harry Potter" />
             <option value="$PROJECT_DIR$/Problems/Leap year" />
             <option value="$PROJECT_DIR$/Problems/Maximum element divisible by four" />
             <option value="$PROJECT_DIR$/Problems/Numbers divisible by six" />
             <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/Sum of numbers in the range" />
             <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The integer barrier" />
