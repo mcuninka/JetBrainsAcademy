@@ -1,2 +1,4 @@
 # JetBrainsAcademy
-This is a simple project from JetBrains Academy called Simple Chatty Bot - it is for learning using scanner, loops and basics of Java.
+This is a simple project from JetBrains Academy called Simple Chatty Bot - using scanner, loops and basics of Java.
+
+The java file is located in the Simply Chatty Bot/task/src/bot
